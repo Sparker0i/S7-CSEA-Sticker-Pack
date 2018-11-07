@@ -1,0 +1,254 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "CSE-A 2k19 Boys",
+      "publisher": "Gautham Padmanabhan",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "aaditya.webp",
+          "emojis": ["😑","🤨"]
+        },
+        {
+          "image_file": "adarsh.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "adithyakiran.webp",
+          "emojis": ["💩","😎"]
+        },
+        {
+          "image_file": "ajaz.webp",
+          "emojis": ["🤔","🙄"]
+        },
+        {
+          "image_file": "akorep.webp",
+          "emojis": ["😳"]
+        },
+        {
+          "image_file": "akshaybk.webp",
+          "emojis": ["😇","☺","😊"]
+        },
+        {
+          "image_file": "amruthanand.webp",
+          "emojis": ["😆","🤗"]
+        },
+        {
+          "image_file": "ananthakrishnan.webp",
+          "emojis": ["👨‍❤‍👨","👨‍👨‍👦"]
+        },
+        {
+          "image_file": "anit.webp",
+          "emojis": ["🤦‍♂","🤷‍♂"]
+        },
+        {
+          "image_file": "deepak.webp",
+          "emojis": ["😀","😃","😄"]
+        },
+        {
+          "image_file": "gaushik.webp",
+          "emojis": ["🤪","😈"]
+        },
+        {
+          "image_file": "gautham.webp",
+          "emojis": ["🙃"]
+        },
+        {
+          "image_file": "jivtesh.webp",
+          "emojis": ["🚵‍♂","🚴‍♂"]
+        },
+        {
+          "image_file": "kalyan.webp",
+          "emojis": ["😎","🤓"]
+        },
+        {
+          "image_file": "kiran.webp",
+          "emojis": ["😌","🤗"]
+        },
+        {
+          "image_file": "koundinya.webp",
+          "emojis": ["🤳"]
+        },
+        {
+          "image_file": "mohan.webp",
+          "emojis": ["🤓","🧐"]
+        },
+        {
+          "image_file": "nandagopal.webp",
+          "emojis": ["😏","👺","💀"]
+        },
+        {
+          "image_file": "rohit.webp",
+          "emojis": ["😂","🤓","🤤"]
+        },
+        {
+          "image_file": "sachin.webp",
+          "emojis": ["🤐","😶"]
+        },
+        {
+          "image_file": "sai_nihith.webp",
+          "emojis": ["😂"]
+        },
+        {
+          "image_file": "saihaneesh.webp",
+          "emojis": ["😎","🤓","🤖"]
+        },
+        {
+          "image_file": "saikumar.webp",
+          "emojis": ["🧒"]
+        },
+        {
+          "image_file": "saiprasad.webp",
+          "emojis": ["🤓"]
+        },
+        {
+          "image_file": "sravan.webp",
+          "emojis": ["😝","😜","😛"]
+        },
+        {
+          "image_file": "sreehari.webp",
+          "emojis": ["🤓","😂"]
+        },
+        {
+          "image_file": "sukumar.webp",
+          "emojis": ["👨‍🎓","👨‍🏫","🤵"]
+        },
+        {
+          "image_file": "sumesh.webp",
+          "emojis": ["🤯","🤬","😡"]
+        },
+        {
+          "image_file": "vineeth.webp",
+          "emojis": ["😆","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "CSE-A 2k19 Girls",
+      "publisher": "Gautham Padmanabhan",
+      "tray_image_file": "icon.png",
+      "publisher_email":"aaditya@sparker0i.me",
+      "publisher_website": "https://blog.sparker0i.me",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "aparna.webp",
+          "emojis": ["😳","😱","😨"]
+        },
+        {
+          "image_file": "devika.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "greeshma.webp",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "lekshmi.webp",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "malavika.webp",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "meenakshi.webp",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "namratha.webp",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "nayana.webp",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "niranjana.webp",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "pratyusha.webp",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "ritika.webp",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "sanjana.webp",
+          "emojis": ["🙄"]
+        },
+        {
+          "image_file": "sravya.webp",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "swathi.webp",
+          "emojis": ["😁"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "CSE-A 2k19 Rohit Special",
+      "publisher": "Gautham Padmanabhan",
+      "tray_image_file": "icon.png",
+      "publisher_email":"aaditya@sparker0i.me",
+      "publisher_website": "https://blog.sparker0i.me",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "rohit1.webp",
+          "emojis": ["👎","🙅‍♂"]
+        },
+        {
+          "image_file": "rohit2.webp",
+          "emojis": ["😖","🙆‍♂"]
+        },
+        {
+          "image_file": "rohit3.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "rohit5.webp",
+          "emojis": ["💡","🧠"]
+        },
+        {
+          "image_file": "rohit6.webp",
+          "emojis": ["😖","😤","👺"]
+        },
+        {
+          "image_file": "rohit7.webp",
+          "emojis": ["🌿"]
+        },
+        {
+          "image_file": "rohit8.webp",
+          "emojis": ["👍"]
+        },
+        {
+          "image_file": "rohit9.webp",
+          "emojis": ["🖕"]
+        },
+        {
+          "image_file": "rohit10.webp",
+          "emojis": ["👍"]
+        },
+        {
+          "image_file": "rohit11.webp",
+          "emojis": ["😖","😤","😠"]
+        }
+      ]
+    }
+  ]
+}
